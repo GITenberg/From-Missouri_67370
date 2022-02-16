@@ -10,6 +10,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '50496'
     url: http://www.gutenberg.org/2009/agents/50496
+covers:
+- cover_type: archival
+  image_path: 67370-h/images/cover.jpg
 creator:
   author:
     agent_name: Grey, Zane
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/212
     wikipedia: https://en.wikipedia.org/wiki/Zane_Grey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67370#From-Missouri
 gutenberg_issued: '2022-02-10'
 identifiers:
   gutenberg: '67370'
